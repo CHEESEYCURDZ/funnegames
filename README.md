@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @funnegames
+- 👋 Hi, I’m @cheesecurdz
 - 👀 I’m interested in making the goofiest games
 - 🌱 I’m currently learning how to make my games into a website for ppl to play
 - 💞️ I’m looking to collaborate on monke clicker
